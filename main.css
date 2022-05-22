@@ -1,0 +1,115 @@
+.wrapper {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: 1fr 1fr;
+}
+
+.rectangles {
+    display: grid;
+    gap: 1em;
+}
+
+.rect {
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rect--blue {
+    background-color: var(--background-blue-alpha);
+}
+
+.rect--green {
+    background-color: var(--background-green-alpha);
+}
+
+.rect--red {
+    background-color: var(--background-red-alpha);
+}
+
+.rect--yellow {
+    background-color: var(--background-yellow-alpha);
+}
+
+.rect--grey {
+    background-color: var(--background-grey-alpha);
+}
+
+.text {
+    font-size: 1em;
+    padding: 1em;
+}
+
+.text--blue {
+    color: var(--text-blue);
+}
+
+.text--green {
+    color: var(--text-green);
+}
+
+.text--red {
+    color: var(--text-red);
+}
+
+.text--yellow {
+    color: var(--text-yellow);
+}
+
+.text--grey {
+    color: var(--text-grey);
+}
+
+.rect--blue2 {
+    background-color: var(--background-blue2);
+}
+
+.rect--green2 {
+    background-color: var(--background-green2);
+}
+
+.rect--red2 {
+    background-color: var(--background-red2);
+}
+
+.rect--yellow2 {
+    background-color: var(--background-yellow2);
+}
+
+.rect--grey2 {
+    background-color: var(--background-grey2);
+}
+
+.text--blue2 {
+    color: var(--text-blue2);
+}
+
+.text--green2 {
+    color: var(--text-green2);
+}
+
+.text--red2 {
+    color: var(--text-red2);
+}
+
+.text--yellow2 {
+    color: var(--text-yellow2);
+}
+
+.text--grey2 {
+    color: var(--text-grey2);
+}
+
+.block {
+    border: 0.5px solid var(--border-grey);
+    width: 200px;
+    height: 100px;
+}
+
+.block2 {
+    border: 1px solid var(--border-grey);
+    width: 200px;
+    height: 100px;
+}

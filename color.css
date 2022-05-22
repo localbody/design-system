@@ -1,0 +1,37 @@
+/* blue */
+
+:root {
+    /* --background-blue-alpha: rgba(197, 220, 250, 0.5); */
+    --background-blue-alpha: #e2edfc;
+    /* --background-green-alpha: rgba(197, 242, 199, 0.5); */
+    --background-green-alpha: #e2f8e3;
+    /* --background-red-alpha: rgba(252, 208, 207, 0.5); */
+    --background-red-alpha: #fde7e7;
+    /* --background-yellow-alpha: rgba(251, 229, 201, 0.5); */
+    --background-yellow-alpha: #fdf2e4;
+    /* --background-grey-alpha: rgba(224, 224, 224, 0.5); */
+    --background-grey-alpha: #efefef;
+
+    --background-grey-dark: #616161;
+    --background-grey-medium: #818181;
+    --background-grey-light: #e0e0e0;
+
+    --background-blue: #0f56b3;
+    --background-green: #1f8b24;
+    --background-brown: #7f4c0a;
+    --background-red: #da100b;
+    --background-yellow: #fbe5c9;
+
+    --text-blue: #0f56b3;
+    --text-green: #1f8b24;
+    --text-red: #a90e46;
+    --text-yellow: #bf710f;
+    --text-grey: #616161;
+
+    --border-grey: #c0c0c0;
+    --border-blue: #8ab9f6;
+    --border-grey2: #e4e4ef;
+}
+
+/* shadow-blue: filter: drop-shadow(0px 1.09009px 2.18018px rgba(15, 86, 179, 0.18)) drop-shadow(0px 2.18018px 4.36036px rgba(15, 86, 179, 0.18)); */
+/* shadow-grey: filter: drop-shadow(0px 1.09009px 2.18018px rgba(97, 97, 97, 0.18)) drop-shadow(0px 2.18018px 4.36036px rgba(97, 97, 97, 0.18)); */
